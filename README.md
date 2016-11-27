@@ -12,9 +12,9 @@ RPG Maker -> File -> Open Project -> `path/to/project`.
 
 ## Colaboradores
 	
-**Nathan Imamura**&nbsp;&nbsp;&nbsp;[gh/NatsXDLageg](https://github.com/NatsXDLageg)&nbsp;&nbsp;&nbsp;
+**Nathan Henrique Imamura**&nbsp;&nbsp;&nbsp;[gh/NatsXDLageg](https://github.com/NatsXDLageg)&nbsp;&nbsp;&nbsp;nathan.imamura@usp.br
 	
-**Oscar Lima Neto** &nbsp;&nbsp;&nbsp;[gh/oscarlnetoo](https://github.com/oscarlnetoo)&nbsp;&nbsp;&nbsp; 
+**Oscar Cardoso de Lima Neto** &nbsp;&nbsp;&nbsp;[gh/oscarlnetoo](https://github.com/oscarlnetoo)&nbsp;&nbsp;&nbsp;oscarneto@usp.br 
 
 **Paulo Guarnier De Mitri**&nbsp;&nbsp;&nbsp;[gh/paulogdm](https://github.com/paulogdm)&nbsp;&nbsp;&nbsp;paulo.mitri@usp.br
 	
